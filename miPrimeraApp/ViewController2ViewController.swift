@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ViewController2ViewController.swift
 //  miPrimeraApp
 //
 //  Created by Mac 02 on 12/09/22.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController2ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -35,9 +35,6 @@ class ViewController: UIViewController {
         super.viewDidDisappear(true)
         print("Se activo la funcion viewDidDisappear del viewController 1")
     }
-        
-        
-    
+
 
 }
-
